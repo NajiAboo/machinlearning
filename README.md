@@ -6,3 +6,5 @@ Machine learning models and approaches
 ## Encoding Categorical Data
 ## Spliting the data in to train and test
 ## Feature scaling
+
+#Linear Regression
