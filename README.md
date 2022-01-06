@@ -7,4 +7,4 @@ Machine learning models and approaches
 ## Spliting the data in to train and test
 ## Feature scaling
 
-#Linear Regression
+# Linear Regression
