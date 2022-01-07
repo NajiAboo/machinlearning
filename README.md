@@ -1,4 +1,4 @@
-# machinlearning
+# Machinlearning
 Machine learning models and approaches
 
 #Data Preprocessing 
@@ -8,3 +8,4 @@ Machine learning models and approaches
 ## Feature scaling
 
 # Linear Regression
+# Multiple Linear Regression
